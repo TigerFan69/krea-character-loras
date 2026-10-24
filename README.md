@@ -4,10 +4,10 @@ These character downloads are free. Optional [Ko-fi support and $5/month private
 
 Free character adapters, with installation instructions and original licenses.
 
-| Model | Trigger | Guide | Civitai |
-| --- | --- | --- | --- |
-| Krea 2 Jessica v1 | `JessicaV1` | [Jessica](Jessica/README.md) | [Model and examples](https://civitai.red/models/3017256/krea-2-jessica-fictional-character-lora) |
-| Krea 2 Erika v1 | `Erika-v1` | [Erika](Erika/README.md) | [Model and examples](https://civitai.red/models/3017341/krea-2-erika-fictional-character-lora) |
+| Model | Trigger | Download | Guide | Civitai |
+| --- | --- | --- | --- | --- |
+| Krea 2 Jessica v1 | `JessicaV1` | [Jessica release](https://github.com/TigerFan69/krea-character-loras/releases/tag/jessica-v1) | [Jessica](Jessica/README.md) | [Model and examples](https://civitai.red/models/3017256/krea-2-jessica-fictional-character-lora) |
+| Krea 2 Erika v1 | `Erika-v1` | [Erika release](https://github.com/TigerFan69/krea-character-loras/releases/tag/erika-v1) | [Erika](Erika/README.md) | [Model and examples](https://civitai.red/models/3017341/krea-2-erika-fictional-character-lora) |
 
 Download the named model ZIP from **Releases** for weights plus license/notice/guide. The repository and GitHub-generated source archives contain documentation, not weights. Model packages are about 109 MiB before compression. Models require a separate compatible Krea 2 environment.
 
