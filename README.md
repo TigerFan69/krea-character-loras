@@ -1,16 +1,24 @@
-These character downloads are free. Optional [Ko-fi support and $5/month private-community membership](https://ko-fi.com/tigerfan69/tiers) supports development. Follow [Civitai releases](https://civitai.red/user/TigerFan69) and [Hugging Face models](https://huggingface.co/TigerFan69); no membership is required to download these models. Community: LoRA Studio Beta Community on Discord (connect through Ko-fi for member areas).
+These character downloads are free. Optional [$5/month Ko-fi support](https://ko-fi.com/tigerfan69/tiers) supports future releases and private-community benefits; no membership is required. Follow [Civitai](https://civitai.red/user/TigerFan69) and [Hugging Face](https://huggingface.co/TigerFan69).
 
-# Krea character LoRAs by TigerFan69
+# Krea 2 character LoRAs by TigerFan69
 
-Free character adapters, with installation instructions and original licenses.
+Licensed original adapters, installation instructions, creator permissions and checksums. Obtain a compatible Krea 2 base model separately.
 
-| Model | Trigger | Download | Guide | Civitai |
-| --- | --- | --- | --- | --- |
-| Krea 2 Jessica v1 | `JessicaV1` | [Jessica release](https://github.com/TigerFan69/krea-character-loras/releases/tag/jessica-v1) | [Jessica](Jessica/README.md) | [Model and examples](https://civitai.red/models/3017256/krea-2-jessica-fictional-character-lora) |
-| Krea 2 Erika v1 | `Erika-v1` | [Erika release](https://github.com/TigerFan69/krea-character-loras/releases/tag/erika-v1) | [Erika](Erika/README.md) | [Model and examples](https://civitai.red/models/3017341/krea-2-erika-fictional-character-lora) |
+| Character | Model card | Hugging Face | ZIP release |
+|---|---|---|---|
+| Cam | [Cam](Cam/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Cam-v1) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/cam-v1) |
+| Amy | [Amy](Amy/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Amy-v1) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/amy-v1) |
+| Lisa | [Lisa](Lisa/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Lisa-v1a) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/lisa-v1a) |
+| Erika | [Erika](Erika/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Erika-v1) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/erika-v1) |
+| Annabel | [Annabel](Annabel/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Annabel-v1) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/annabel-v1) |
+| Jessica | [Jessica](Jessica/README.md) | [Download](https://huggingface.co/TigerFan69/Krea-2-Jessica-v1) | [Licensed ZIP](https://github.com/TigerFan69/krea-character-loras/releases/tag/jessica-v1) |
 
-Download the named model ZIP from **Releases** for weights plus license/notice/guide. The repository and GitHub-generated source archives contain documentation, not weights. Model packages are about 109 MiB before compression. Models require a separate compatible Krea 2 environment.
+Jessica remains available through her existing mirrors; her Civitai listing is unavailable. No replacement Civitai upload is planned.
 
-Each model is governed by its included Krea 2 Community License and creator permissions. Read those before downloading or using it. By downloading or using a derivative, you agree to its terms. Do not download or use it if you do not agree. Free access does not grant unrestricted commercial or redistribution rights.
+Lisa’s creator reports good results at strength 1.0. Erika was creator-tested up to 1.5 in the creator’s own setup; this is not a universal recommendation. Follow each character’s exact trigger and model card.
 
-The [LoRA Studio application](https://github.com/TigerFan69/lora-studio) is a separate software project. Its MIT license does not apply here. No datasets, base-model weights, or credentials are included.
+All weights retain their Krea 2 Community License and creator permissions. No MIT license applies to model weights. New sharing previews have embedded prompt/workflow metadata removed; older histories or downloaded copies may retain original metadata.
+
+## Free Ko-fi downloads
+
+[Lisa](https://ko-fi.com/s/f12e5e8ebf) · [Annabel](https://ko-fi.com/s/b326da1a97) · [Cam](https://ko-fi.com/s/4ba9f62a6b) · [Amy](https://ko-fi.com/s/45070710ea) · [Erika](https://ko-fi.com/s/280f8a4300) · [Jessica](https://ko-fi.com/s/cff4d8ff39)
