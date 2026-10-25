@@ -13,7 +13,7 @@ Read [LICENSE.pdf](LICENSE.pdf), [NOTICE.txt](NOTICE.txt), and [CREATOR-TERMS.md
 - [Civitai model and example gallery](https://civitai.red/models/3017341/krea-2-erika-fictional-character-lora) — version 3425433.
 - [Hugging Face model page](https://huggingface.co/TigerFan69/Krea-2-Erika-v1).
 - [Free Ko-fi download](https://ko-fi.com/s/280f8a4300).
-- GitHub Release package: `Krea-2-Erika-v1.zip`; includes the original weights, this guide, license, notice, creator permissions, and checksums. GitHub's automatic source archives contain documentation only.
+- GitHub Release package: `Krea-2-Erika-v1-2026-10-25.zip` (current documentation/preview refresh; older assets are retained for history); includes the original weights, this guide, license, notice, creator permissions, and checksums. GitHub's automatic source archives contain documentation only.
 
 ## Model details
 
@@ -36,7 +36,7 @@ This is an adapter only. Obtain the base model, text encoder, and VAE separately
 1. Extract the release ZIP and read its license and creator permissions.
 2. Copy `krea2_erika-v1_cd93955d9edb.safetensors` to `ComfyUI/models/loras/`, then refresh or restart ComfyUI.
 3. In your working Krea 2 Turbo workflow, insert **Load LoRA (Model Only)** between the base-model loader and sampler; choose this adapter.
-4. Include `Erika-v1` in the prompt. Start with your working Krea 2 workflow and adjust LoRA strength, prompt and seed. No numeric settings have been independently tested for this release.
+4. Include `Erika-v1` in the prompt. The creator reports testing Erika at strengths up to **1.5** in their own setup. This is an upper tested value, not a universal recommended strength. Start with your working Krea 2 workflow and adjust strength, prompt and seed; other checkpoints or workflows can behave differently, and a commenter reported artifacts at 1.5 with another checkpoint. No independently validated strength range is claimed.
 
 Example: `Erika-v1, a fictional adult woman wearing a casual jacket, standing in a sunlit garden, natural lighting, portrait photograph`.
 
@@ -47,3 +47,8 @@ The local source checksum and Safetensors metadata were checked before packaging
 For feedback, use the model's Civitai discussion or existing Discord installation-help and results-and-feedback channels. Remove secrets and personal information from reports. [Creator on Civitai](https://civitai.red/user/TigerFan69) · [Hugging Face](https://huggingface.co/TigerFan69).
 
 The separate [LoRA Studio software](https://github.com/TigerFan69/lora-studio) is a free public technical preview. Its MIT license does not apply to these character models.
+
+
+## October 24 preview metadata update
+
+The preview’s embedded prompt/workflow metadata was removed. Decoded RGBA pixels are unchanged; no color profile or orientation metadata was present. Model weights are unchanged. Earlier Git history and downloaded packages may retain the old preview metadata.
