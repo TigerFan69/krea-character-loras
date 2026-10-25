@@ -8,10 +8,10 @@ Jessica is a fictional SFW character LoRA by TigerFan69. This release is free; i
 
 Read [LICENSE.pdf](LICENSE.pdf), [NOTICE.txt](NOTICE.txt), and [CREATOR-TERMS.md](CREATOR-TERMS.md) before downloading or using this derivative. By downloading, accessing, copying, using or distributing it, you agree to be bound by the Krea 2 Community License Agreement and applicable creator terms. If you do not agree, do not download or use it.
 
-- [Civitai model and example gallery](https://civitai.red/models/3017256/krea-2-jessica-fictional-character-lora) — version 3425325.
+- Civitai availability: the October 24 version 1a listing was unpublished as a duplicate, as verified October 25. No new weights were trained: its full checksum matches this original v1 file. Use the free mirrors here while Civitai availability is unresolved.
 - [Hugging Face model page](https://huggingface.co/TigerFan69/Krea-2-Jessica-v1).
 - [Free Ko-fi download](https://ko-fi.com/s/cff4d8ff39).
-- GitHub Release package: `Krea-2-Jessica-v1.zip`; includes the original weights, this guide, license, notice, creator permissions, and checksums. GitHub's automatic source archives contain documentation only.
+- GitHub Release package: `Krea-2-Jessica-v1-2026-10-25.zip` (current documentation/preview refresh; older assets are retained for history); includes the original weights, this guide, license, notice, creator permissions, and checksums. GitHub's automatic source archives contain documentation only.
 
 ## Model details
 
@@ -32,17 +32,22 @@ This is an adapter only. Obtain the base model, text encoder, and VAE separately
 ## ComfyUI installation
 
 1. Extract the release ZIP and read its license and creator permissions.
-2. Copy `krea2_jessicav1_3028a8fecc14.safetensors` to `ComfyUI/models/loras/`, then refresh or restart ComfyUI.
+2. Copy `Krea-2-Jessica-v1.safetensors` to `ComfyUI/models/loras/`, then refresh or restart ComfyUI.
 3. In your working Krea 2 Turbo workflow, insert **Load LoRA (Model Only)** between the base-model loader and sampler; choose this adapter.
 4. Start at LoRA strength **1.0**, then compare **0.7** with the same prompt and seed. Include `JessicaV1` in the prompt.
 5. For a Turbo workflow, start with **8 steps**, **CFG 1**, and **512 × 512** resolution, then adjust for your compatible workflow. These are starting suggestions, not universal requirements or a quality guarantee.
 
-Example: `JessicaV1, a fictional adult woman wearing a casual jacket, standing in a sunlit garden, natural lighting, portrait photograph`.
+Example: `JessicaV1, a fictional character wearing a casual jacket, standing in a sunlit garden, natural lighting, portrait photograph`.
 
 ## Validation and feedback
 
-The local source checksum and Safetensors metadata were checked before packaging. Metadata identifies Krea 2 and 2,000 training steps. No fresh visual generation benchmark is claimed by this packaging check. Example images and training data are not bundled; see the creator's Civitai gallery. Results depend on the base workflow, seed and prompt.
+The local source checksum and Safetensors metadata were checked before packaging. Metadata identifies Krea 2 and 2,000 training steps. No fresh visual generation benchmark is claimed by this packaging check. Example images and training data are not bundled. Results depend on the base workflow, seed and prompt.
 
-For feedback, use the model's Civitai discussion or existing Discord installation-help and results-and-feedback channels. Remove secrets and personal information from reports. [Creator on Civitai](https://civitai.red/user/TigerFan69) · [Hugging Face](https://huggingface.co/TigerFan69).
+For feedback, use the existing Discord installation-help and results-and-feedback channels, or Ko-fi messages. Remove secrets and personal information from reports. [Creator on Civitai](https://civitai.red/user/TigerFan69) · [Hugging Face](https://huggingface.co/TigerFan69).
 
 The separate [LoRA Studio software](https://github.com/TigerFan69/lora-studio) is a free public technical preview. Its MIT license does not apply to these character models.
+
+
+## Listing revision and SFW scope
+
+The creator identifies Jessica as an adult fictional character. This release remains **SFW-only**. The Civitai version 1a upload used a renamed file with identical weights; it does not represent new training or an improved model. The original v1 release is preserved. No duplicate Civitai upload is being created.
