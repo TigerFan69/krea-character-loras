@@ -6,19 +6,19 @@ This repository is a Markdown catalog. Download original model weights and read 
 
 ## Published releases
 
-Civitai inventory checked November 2, 2026. Each version is free to download; any on-site generation costs are separate. Hugging Face repository names may retain an earlier version number: use the current card and exact adapter filename to select the version.
+Civitai inventory checked November 3, 2026. Each version is free to download; any on-site generation costs are separate. Hugging Face repository names may retain an earlier version number: use the current card and exact adapter filename to select the version.
 
 | Character | Current Civitai version | Hugging Face | Ko-fi |
 |---|---|---|---|
-| Raven | [v1.0](https://civitai.red/models/3032607?modelVersionId=3445425) | Mirror pending; use Civitai | Listing pending |
-| Jeanette | [v1.0](https://civitai.red/models/3027757?modelVersionId=3438902) | Mirror pending; use Civitai | Listing pending |
-| Cait | [v2.0](https://civitai.red/models/3024278?modelVersionId=3437876) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Cait-v2) | Listing pending |
+| Raven | [v1.0](https://civitai.red/models/3032607?modelVersionId=3445425) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Raven-v1) | Listing pending |
+| Jeanette | [v1.0](https://civitai.red/models/3027757?modelVersionId=3438902) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Jeanette-v1) | Listing pending |
+| Cait | [v2.0](https://civitai.red/models/3024278?modelVersionId=3437876) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Cait-v2) | [Free download](https://ko-fi.com/s/f389dd1272) |
 | Annabel | [v3.0](https://civitai.red/models/3015700?modelVersionId=3437116) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Annabel-v1) | [Free download](https://ko-fi.com/s/b326da1a97) |
 | Erika | [v4.1](https://civitai.red/models/3017341?modelVersionId=3437055) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Erika-v1) | [Free download](https://ko-fi.com/s/280f8a4300) |
-| Madie | [v1](https://civitai.red/models/3025694?modelVersionId=3436281) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Madie-v1) | Listing pending |
-| Maddison | [v1.0](https://civitai.red/models/3025515?modelVersionId=3436049) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Maddison-v1) | Listing pending |
+| Madie | [v1](https://civitai.red/models/3025694?modelVersionId=3436281) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Madie-v1) | [Free download](https://ko-fi.com/s/b895d7c610) |
+| Maddison | [v1.0](https://civitai.red/models/3025515?modelVersionId=3436049) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Maddison-v1) | [Free download](https://ko-fi.com/s/fc176b31a4) |
 | Jessica | [v1.0](https://civitai.red/models/3022958?modelVersionId=3432710) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Jessica-v1) | [Free download](https://ko-fi.com/s/cff4d8ff39) |
-| Kelly | [v1.0](https://civitai.red/models/3021580?modelVersionId=3430926) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Kelly-v1) | Listing pending |
+| Kelly | [v1.0](https://civitai.red/models/3021580?modelVersionId=3430926) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Kelly-v1) | [Free download](https://ko-fi.com/s/9917e501c2) |
 | Cam | [v1.0](https://civitai.red/models/3019050?modelVersionId=3427632) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Cam-v1) | [Free download](https://ko-fi.com/s/4ba9f62a6b) |
 | Amy | [v1.0](https://civitai.red/models/3018875?modelVersionId=3427410) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amy-v1) | [Free download](https://ko-fi.com/s/45070710ea) |
 | Lisa | [v1.0](https://civitai.red/models/3018108?modelVersionId=3426448) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Lisa-v1a) | [Free download](https://ko-fi.com/s/f12e5e8ebf) |
