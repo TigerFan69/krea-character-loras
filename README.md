@@ -6,14 +6,14 @@ This repository hosts Markdown documentation. Model weights and licensed downloa
 
 ## Current release destinations
 
-Checked November 4, 2026. Maribeth is in paid early access on Civitai until November 6, 6:59 p.m. Central, or earlier if her funding goal is met. Her weights are not mirrored publicly during that window. Other listed current characters are free; on-site generation charges are separate. Repository names can retain an older version number.
+Checked November 4, 2026. All listed current characters are free; on-site generation charges are separate. Repository names can retain an older version number.
 
 | Character | Civitai | Hugging Face | Ko-fi |
 |---|---|---|---|
-| Amanda | [v1.0](https://civitai.red/models/3036699?modelVersionId=3450733) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amanda-v1) | Publication pending |
+| Amanda | [v1.0](https://civitai.red/models/3036699?modelVersionId=3450733) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amanda-v1) | [Free package](https://ko-fi.com/s/22c5c1f232) |
 | Maribeth | [v1.0](https://civitai.red/models/3035871?modelVersionId=3449638) | Paid early access: see Civitai | Not mirrored during paid access |
-| Violet | [v1.0](https://civitai.red/models/3034969?modelVersionId=3448439) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Violet-v1) | Publication pending |
-| Amber | [v1.0](https://civitai.red/models/3034373?modelVersionId=3447703) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amber-v1) | Publication pending |
+| Violet | [v1.0](https://civitai.red/models/3034969?modelVersionId=3448439) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Violet-v1) | [Free package](https://ko-fi.com/s/4e0ab7c718) |
+| Amber | [v1.0](https://civitai.red/models/3034373?modelVersionId=3447703) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amber-v1) | [Free package](https://ko-fi.com/s/c8c56a7542) |
 | Raven | [v1.0](https://civitai.red/models/3032607?modelVersionId=3445425) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Raven-v1) | [Free package](https://ko-fi.com/s/f1b07de954) |
 | Jeanette | [v1.0](https://civitai.red/models/3027757?modelVersionId=3438902) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Jeanette-v1) | [Free package](https://ko-fi.com/s/cbaa99c61f) |
 | Cait | [v2.0](https://civitai.red/models/3024278?modelVersionId=3437876) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Cait-v2) | [Free package](https://ko-fi.com/s/f389dd1272) |
