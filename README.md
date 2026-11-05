@@ -11,7 +11,6 @@ Checked November 4, 2026. All listed current characters are free; on-site genera
 | Character | Civitai | Hugging Face | Ko-fi |
 |---|---|---|---|
 | Amanda | [v1.0](https://civitai.red/models/3036699?modelVersionId=3450733) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amanda-v1) | [Free package](https://ko-fi.com/s/22c5c1f232) |
-| Maribeth | [v1.0](https://civitai.red/models/3035871?modelVersionId=3449638) | Paid early access: see Civitai | Not mirrored during paid access |
 | Violet | [v1.0](https://civitai.red/models/3034969?modelVersionId=3448439) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Violet-v1) | [Free package](https://ko-fi.com/s/4e0ab7c718) |
 | Amber | [v1.0](https://civitai.red/models/3034373?modelVersionId=3447703) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amber-v1) | [Free package](https://ko-fi.com/s/c8c56a7542) |
 | Raven | [v1.0](https://civitai.red/models/3032607?modelVersionId=3445425) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Raven-v1) | [Free package](https://ko-fi.com/s/f1b07de954) |
@@ -27,7 +26,7 @@ Checked November 4, 2026. All listed current characters are free; on-site genera
 | Amy | [v1.0](https://civitai.red/models/3018875?modelVersionId=3427410) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Amy-v1) | [Free package](https://ko-fi.com/s/45070710ea) |
 | Lisa | [v1.0](https://civitai.red/models/3018108?modelVersionId=3426448) | [Model files](https://huggingface.co/TigerFan69/Krea-2-Lisa-v1a) | [Free package](https://ko-fi.com/s/f12e5e8ebf) |
 
-Cam’s HF mirror contains v2.0 alongside v1; its Ko-fi v2.0 update is pending. Jessica’s current source is model 3022958; removed older Civitai listings are not being republished. Older files are retained separately.
+Cam’s HF mirror contains v2.0 alongside v1; its Ko-fi v2.0 package is available with v1 retained. Jessica’s current source is model 3022958; removed older Civitai listings are not being republished. Older files are retained separately.
 
 ## Installation and usage
 
